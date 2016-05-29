@@ -42,6 +42,7 @@ activate :minify_html do |html|
   html.preserve_patterns          = nil    # Patterns to preserve
 end
 
+activate :blog
 ###
 # Helpers
 ###
